@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slastice>
+  <slastica>
+    <ime>Keks borovnica</ime>
+    <cijena>15 kn</cijena>
+    <kalorije>200 kcal</kalorije>
+  </slastica>
+   <slastica>
+    <ime>Keks čokolada</ime>
+    <cijena>15 kn</cijena>
+    <kalorije>250 kcal</kalorije>
+  </slastica>
+   <slastica>
+    <ime>Makaron borovnica</ime>
+    <cijena>40</cijena>
+    <kalorije>300 kcal</kalorije>
+  </slastica>
+   <slastica>
+    <ime>Makaron pistacija</ime>
+    <cijena>40</cijena>
+    <kalorije>300 kcal</kalorije>
+  </slastica>
+   <slastica>
+    <ime>Mafin borovnica</ime>
+    <cijena>30</cijena>
+    <kalorije>180 kcal</kalorije>
+  </slastica>
+   <slastica>
+    <ime>Cupcake limun</ime>
+    <cijena>30</cijena>
+    <kalorije>190 kcal</kalorije>
+  </slastica>
+</slastice>
